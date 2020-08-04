@@ -1179,7 +1179,7 @@ class AboutFrame(tk.Frame):
 
     @staticmethod
     def github():
-        webbrowser.open("https://github.com/sbcshop/SB_Servo")
+        webbrowser.open("https://github.com/sbcshop/SB_Serial_Servo")
 
 
 logo = None
