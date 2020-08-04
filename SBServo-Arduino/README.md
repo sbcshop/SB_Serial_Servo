@@ -3,10 +3,9 @@
 # Installation
 --------------------------------------------------------------------------------
 
-##To install this library, just place this entire folder as a sub folder in your
-Arduino/libraries folder.
+## To install this library, just place this entire folder as a sub folder in your Arduino/libraries folder.
 
-###When installed, this library should look like:
+### When installed, this library should look like:
 
 - Arduino/libraries/SBServo              (SB Servo Library Folder)
 - Arduino/libraries/SBServo/SBServo.cpp     (the library implementation file)
@@ -23,7 +22,7 @@ Arduino/libraries folder.
 - Arduino/libraries/SBServo/readme.txt   (this file)
 
 --------------------------------------------------------------------------------
-### Or add package from Aruduino IDE
+### Or add package from Arduino IDE
 
 - Open Arduino IDE, go to Sketch > Include Library > Add .ZIP Library 
 
