@@ -1,4 +1,4 @@
-** This is an SB Servo Arduino Library for Interfacing Arduino and SB Servo Motors. **
+**This is an SB Servo Arduino Library for Interfacing Arduino and SB Servo Motors.**
 
 # Installation
 --------------------------------------------------------------------------------
