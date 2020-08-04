@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+s8 KEYWORD1
+u8	KEYWORD1
+u16	KEYWORD1
+s16 KEYWORD1
+u32	KEYWORD1
+s32 KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+SBServo	KEYWORD2
+WritePos KEYWORD2
+SyncWritePos KEYWORD2
+WritePWM KEYWORD2
+RegWritePos KEYWORD2
+RegWriteAction KEYWORD2
+
+
