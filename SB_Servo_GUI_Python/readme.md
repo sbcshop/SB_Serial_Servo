@@ -10,6 +10,6 @@
    sudo chmod +x configGUI.py
    ```
 4. To run the GUI use the following command:
-  ```
-  ./configGUI.py
-  ```
+   ```
+   ./configGUI.py
+   ```
