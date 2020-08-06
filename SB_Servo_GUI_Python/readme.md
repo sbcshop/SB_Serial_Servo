@@ -5,7 +5,7 @@
 
 2. Your code will be downloaded to '/home/pi' directory. Use 'ls' command to check the list of directories.
 
-3. Go to directory 'SB_Serial_Servo' and run the command to change the permissions of 'configGUI' python files:
+3. Go to directory 'SB_Serial_Servo/SB_Servo_GUI_Python' and run the command to change the permissions of 'configGUI' python files:
    ```
    sudo chmod +x configGUI.py
    ```
