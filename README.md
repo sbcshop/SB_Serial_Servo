@@ -9,8 +9,8 @@
 
 ![GitHub Dimensions_023](/SB_Servo_GUI_Python/Images/SB_Servo_Dimensions.jpg)
 
-*How to use Python Library with SB Sevo motors : https://youtu.be/QWOPdFO5D6U
+* How to use Python Library with SB Sevo motors : https://youtu.be/QWOPdFO5D6U
 
-*How to Use Python GUI to configure and control SB Servo motors : https://youtu.be/eSh4_SL5aTM
+* How to Use Python GUI to configure and control SB Servo motors : https://youtu.be/eSh4_SL5aTM
 
 
