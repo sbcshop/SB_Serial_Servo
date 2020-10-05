@@ -66,7 +66,8 @@ class MainApp(tk.Tk):
             self.attributes('-fullscreen', True)
 
         self.config(bg="gray85")
-
+        
+        img = tk.PhotoImage(file=Root_Dir + '/Images/settings.png')
         logo = tk.PhotoImage(file=Root_Dir + '/Images/logo.png')
             
 ##############  Top Frame #####################################################
@@ -1237,5 +1238,6 @@ logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 if __name__ == "__main__":
     robot = SBSServo()
     app = MainApp()
+    app.tk.call('wm', 'iconphoto', app._w, img)
     app.resizable(0, 0)
     app.mainloop()
