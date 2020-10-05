@@ -13,3 +13,17 @@
    ```
    ./configGUI.py
    ```
+   
+   ### New Updated GUI with automatic detection of COM ports 
+   
+   * To use updated GUI, you need to install a library tk-tools , to install it run below command.
+   
+   ```
+   pip3 install tk-tools
+   ```
+   
+   * Now you can directly run "Updated_ConfigGUI.py" from user interface or by running below command
+   
+    ```
+   python3 Updated_ConfigGUI.py
+   ```
