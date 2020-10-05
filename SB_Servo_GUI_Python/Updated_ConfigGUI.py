@@ -1189,7 +1189,7 @@ class AboutFrame(tk.Frame):
         text.grid(row=3, column=0, padx=(0, 388))
 
         text = tk.Label(self, bg="white", fg="black", font=('Helvetica', 11),
-                        text="4. Moves around with precise Smart Bus Servo "
+                        text="3. Moves around with precise Smart Bus Servo "
                              "Motors")
         text.grid(row=4, column=0, padx=(0, 180))
 
