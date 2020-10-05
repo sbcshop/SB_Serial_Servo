@@ -282,6 +282,7 @@ class MainApp(tk.Tk):
                 #self.circle.itemconfigure(self.indication, fill="green3")
                 self.led.to_green(on=True)
                 self.com_entry.config(state="disabled")
+                self.refresh_button["state"] = "disabled"
                 print ("connected")
                 print (self.com_entry.get())
             
@@ -297,6 +298,7 @@ class MainApp(tk.Tk):
             #self.circle.itemconfigure(self.indication, fill="red")
             self.led.to_red(on=True)
             self.com_entry.config(state="normal")
+            self.refresh_button["state"] = "disabled"
             robot.disconnect()
         else:
             errorLabel = tk.Label(self.left_frame, text="Enter Comm Port..!!",
